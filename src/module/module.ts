@@ -1,4 +1,5 @@
-import * as mongoose from 'mongoose';
+import mongoose from "mongoose";
+
 //import { IUser } from './user.module';
 
 export interface Ilocation extends mongoose.Document {
